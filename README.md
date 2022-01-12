@@ -1,5 +1,5 @@
 # Whale_Analysis
-Utilize Pandas to evaluate the performance among various algorithmic, hedge, and mutual fund portfolios in contrast to the S&P 500 index.
+This Jupyter Notebook utilizes Pandas to evaluate the performance among various algorithmic, hedge, and mutual fund portfolios in contrast to the S&P 500 index.
 
 ![DailyReturns](https://user-images.githubusercontent.com/29550860/149231805-226a3528-e6e1-4984-8e7b-05aaacf0333a.png)
 
